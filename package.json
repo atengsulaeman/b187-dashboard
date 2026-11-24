@@ -1,0 +1,7 @@
+{
+  "name": "b187-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dashboard Unit B-187 (Shacman F3000) untuk GitHub profile Atsu",
+  "engines": { "node": ">=18" }
+}
